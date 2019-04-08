@@ -1,0 +1,19 @@
+{
+  "name": "monbros",
+  "version": "1.0.0",
+  "description": "Testing full app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xol3/monBros.git"
+  },
+  "author": "PanchoDelRancho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xol3/monBros/issues"
+  },
+  "homepage": "https://github.com/Xol3/monBros#readme"
+}
